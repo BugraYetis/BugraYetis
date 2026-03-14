@@ -102,13 +102,13 @@ const bugra: Developer = {
 <div align="center">
 
 <a href="https://distinct2026.mae.com.tr/">
-  <img src="https://img.shields.io/badge/🎯_Distinct_2026-Tıbbi_Konferans_Kayıt_Sitesi-6c63ff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🎯_Online_Kayıt_Sistemi-Tıbbi_Konferans_Platformu-6c63ff?style=for-the-badge" />
 </a>
 <a href="https://joondalupfestival.com.au/">
   <img src="https://img.shields.io/badge/🌊_Joondalup_Festival-Festival_Web_Sitesi-ff6584?style=for-the-badge" />
 </a>
 <a href="https://mae.com.tr/AfferaNextEra/countdown.html">
-  <img src="https://img.shields.io/badge/⚡_AfferaNextEra-Animasyonlu_Countdown-43e97b?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/⚡_Countdown-Animasyonlu_Geri_Sayım-43e97b?style=for-the-badge" />
 </a>
 <a href="https://mae.com.tr/Keramik/">
   <img src="https://img.shields.io/badge/🏗️_Keramik-Kurumsal_Ürün_Sitesi-6c63ff?style=for-the-badge" />
