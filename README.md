@@ -9,11 +9,14 @@
 <a href="mailto:bugrayetis305@gmail.com"><img src="https://img.shields.io/badge/-bugrayetis305%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/bu%C4%9Fra-yeti%C5%9F-593964249"><img src="https://img.shields.io/badge/-Buğra%20Yetiş-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="https://instagram.com/bugrayetiss"><img src="https://img.shields.io/badge/-@bugrayetiss-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+<a href="tel:+905365957942"><img src="https://img.shields.io/badge/-+90%20536%20595%2079%2042-25D366?style=flat-square&logo=whatsapp&logoColor=white" /></a>
 <img src="https://komarev.com/ghpvc/?username=BugraYetis&style=flat-square&color=6c63ff&label=Profil+Görüntülenme" />
 
 </div>
 
 <br/>
+
+<img align="right" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
 ## `> whoami`
 
@@ -39,6 +42,18 @@ const bugra: Developer = {
 
 <br/>
 
+### 🔥 Şu Anda
+
+- 🏢 **MAE Reklam Ajansı**'nda Mid Web Developer olarak çalışıyorum
+- 🌱 **Three.js / WebGL** & **React Advanced Patterns** öğreniyorum
+- 🎯 **40+** proje tamamladım — kurumsal siteler, animasyonlar, 3D deneyimler
+- 💬 Benimle **web geliştirme, GSAP animasyonları, UI/UX** hakkında konuşabilirsin
+- ⚡ Fun fact: Piksel mükemmeliyetçisiyim — 1px bile olsa fark ederim 👀
+
+<br clear="both"/>
+
+---
+
 ## 🧰 Teknoloji Arsenal
 
 <div align="center">
@@ -55,6 +70,7 @@ const bugra: Developer = {
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+![Slick](https://img.shields.io/badge/-Slick_Slider-1FC0C1?style=flat-square&logoColor=white)
 
 </td>
 <td align="center" width="33%">
@@ -62,9 +78,11 @@ const bugra: Developer = {
 **🎬 Animasyon & 3D**
 
 ![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
+![ScrollTrigger](https://img.shields.io/badge/-ScrollTrigger-88CE02?style=flat-square&logo=greensock&logoColor=black)
 ![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
 ![WebGL](https://img.shields.io/badge/-WebGL-990000?style=flat-square&logo=webgl&logoColor=white)
 ![AOS](https://img.shields.io/badge/-AOS-4FC08D?style=flat-square&logoColor=white)
+![CSS Animations](https://img.shields.io/badge/-CSS_Animations-264de4?style=flat-square&logo=css3&logoColor=white)
 
 </td>
 <td align="center" width="33%">
@@ -73,7 +91,9 @@ const bugra: Developer = {
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Resend](https://img.shields.io/badge/-Resend-000000?style=flat-square&logo=resend&logoColor=white)
+![Nodemailer](https://img.shields.io/badge/-Nodemailer-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![Shopify](https://img.shields.io/badge/-Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white)
 ![Webflow](https://img.shields.io/badge/-Webflow-4353FF?style=flat-square&logo=webflow&logoColor=white)
@@ -81,21 +101,66 @@ const bugra: Developer = {
 </td>
 </tr>
 <tr>
-<td align="center" colspan="3">
+<td align="center" width="33%">
 
 **🎨 Tasarım**
 
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
+
+</td>
+<td align="center" width="33%">
+
+**📧 E-posta & İletişim**
+
+![HTML Email](https://img.shields.io/badge/-HTML_E--postalar-DD0031?style=flat-square&logo=gmail&logoColor=white)
+![Responsive Email](https://img.shields.io/badge/-Responsive_Email-4285F4?style=flat-square&logo=maildotru&logoColor=white)
+![Dijital İmza](https://img.shields.io/badge/-Dijital_İmza-009688?style=flat-square&logo=minutemailer&logoColor=white)
+
+</td>
+<td align="center" width="33%">
+
+**🎮 Diğer**
+
 ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine%205-313131?style=flat-square&logo=unrealengine&logoColor=white)
+![SEO](https://img.shields.io/badge/-SEO-47C5FB?style=flat-square&logo=google&logoColor=white)
+![Responsive](https://img.shields.io/badge/-Responsive_Design-FF6B6B?style=flat-square&logo=google-chrome&logoColor=white)
 
 </td>
 </tr>
 </table>
 </div>
 
-<br/>
+---
+
+## 💼 Çalışma Geçmişim
+
+```
+🟢 2024 — Devam Ediyor   ┃  Mid Web Developer / Grafik Tasarımcı
+                          ┃  MAE Reklam Ajansı · İstanbul
+                          ┃  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+                          ┃  ✦ React & GSAP ile animasyonlu kurumsal siteler
+                          ┃  ✦ Three.js / WebGL ile 3D web deneyimleri
+                          ┃  ✦ Online kayıt sistemleri & etkinlik platformları
+                          ┃  ✦ Web & tasarım projelerinde liderlik
+                          ┃
+🟡 2023 — 2024            ┃  Junior Web Developer
+                          ┃  MAE Reklam Ajansı · İstanbul
+                          ┃  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+                          ┃  ✦ HTML, CSS, Bootstrap ile tanıtım sayfaları
+                          ┃  ✦ WordPress & Shopify site kurulumları
+                          ┃  ✦ Sosyal medya tasarımları & marka kimliği
+                          ┃
+🔵 2022 — 2023            ┃  Stajyer / Grafik Tasarımcı
+                          ┃  MAE Reklam Ajansı · İstanbul
+                          ┃  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+                          ┃  ✦ Photoshop, Illustrator ile grafik tasarım
+                          ┃  ✦ Etkinlik görselleri & fotoğraf düzenleme
+                          ┃  ✦ HTML/CSS temelleri
+```
+
+---
 
 ## 🚀 Öne Çıkan Projeler
 
@@ -117,28 +182,46 @@ const bugra: Developer = {
   <img src="https://img.shields.io/badge/🦷_Hero_Dental_Art-Diş_Kliniği_Sitesi-ff6584?style=for-the-badge" />
 </a>
 <a href="https://mae.com.tr/touchscreen%202/">
-  <img src="https://img.shields.io/badge/🖥️_Touchscreen_Kiosk-Dokunmatik_Ekran_UI-43e97b?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🖥️_Touchscreen-Dokunmatik_Ekran_UI-43e97b?style=for-the-badge" />
 </a>
 <a href="https://kitpro-audrey.webflow.io/">
   <img src="https://img.shields.io/badge/💎_Kitpro_Audrey-Webflow_Tasarım-6c63ff?style=for-the-badge" />
 </a>
 <a href="https://activetheory.net/work/racer">
-  <img src="https://img.shields.io/badge/🏎️_Racer_3D-WebGL_&_Three.js_Oyun-ff6584?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🏎️_Racer_3D-WebGL_Three.js-ff6584?style=for-the-badge" />
 </a>
 <a href="https://mae.com.tr/site/3bscrollwebsite/">
-  <img src="https://img.shields.io/badge/🌀_3B_Scroll_Website-Three.js_Scroll_Deneyimi-43e97b?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🌀_3B_Scroll-Three.js_Scroll_Deneyimi-43e97b?style=for-the-badge" />
 </a>
 <a href="https://mae.com.tr/site/iconicrete/">
   <img src="https://img.shields.io/badge/🧱_Iconicrete-Ürün_Tanıtım_Sitesi-6c63ff?style=for-the-badge" />
+</a>
+<a href="https://mae.com.tr/site/maritas2023.maereklam.com/">
+  <img src="https://img.shields.io/badge/🏨_Maritas_Hotel-Otel_Tanıtım_Sitesi-ff6584?style=for-the-badge" />
+</a>
+<a href="https://mae.com.tr/deneme_web/">
+  <img src="https://img.shields.io/badge/🎨_Reklam_Ajansı-Animasyonlu_Web_Sitesi-43e97b?style=for-the-badge" />
+</a>
+<a href="https://mae.com.tr/site/mae_site/">
+  <img src="https://img.shields.io/badge/📖_Book_Animation-Kitap_Animasyon_Deneyimi-6c63ff?style=for-the-badge" />
 </a>
 
 </div>
 
 <br/>
 
-> 💡 **40+ proje tamamlandı** — yukarıdakiler sadece birkaç örnek!
+<div align="center">
 
-<br/>
+| 📊 Rakamlarla Ben | |
+|---|---|
+| 🏗️ Tamamlanan Proje | **40+** |
+| 🛠️ Kullanılan Teknoloji | **20+** |
+| 📜 Sertifika | **8+** |
+| ☕ Tüketilen Kahve | **∞** |
+
+</div>
+
+---
 
 ## 📊 GitHub İstatistikleri
 
@@ -161,7 +244,7 @@ const bugra: Developer = {
 
 </div>
 
-<br/>
+---
 
 ## 🏆 GitHub Trophy
 
@@ -171,7 +254,27 @@ const bugra: Developer = {
 
 </div>
 
-<br/>
+---
+
+## 🎓 Eğitim
+
+```
+🎓 2023 — 2025   ┃  Bilgisayar Programcılığı (Ön Lisans)
+                  ┃  İstanbul Aydın Üniversitesi
+                  ┃
+🎓 2019 — 2023   ┃  Web Tasarım & Kodlama
+                  ┃  Mesleki ve Teknik Anadolu Lisesi
+```
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/BugraYetis/BugraYetis/output/github-contribution-grid-snake-dark.svg)
+
+</div>
 
 ---
 
@@ -183,6 +286,9 @@ const bugra: Developer = {
 
 <a href="mailto:bugrayetis305@gmail.com">
   <img src="https://img.shields.io/badge/📧_Birlikte_Çalışalım!-6c63ff?style=for-the-badge" />
+</a>
+<a href="https://www.linkedin.com/in/bu%C4%9Fra-yeti%C5%9F-593964249">
+  <img src="https://img.shields.io/badge/💼_LinkedIn'de_Bağlanalım-0A66C2?style=for-the-badge" />
 </a>
 
 <br/><br/>
