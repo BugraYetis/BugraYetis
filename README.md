@@ -218,6 +218,9 @@ const bugra: Developer = {
 <a href="https://mae.com.tr/site/iconicrete/">
   <img src="https://img.shields.io/badge/🧱_Iconicrete-Çimsa_Ürün_Tanıtım-6c63ff?style=for-the-badge" />
 </a>
+<a href="https://www.eggspander.com/index_en.html">
+  <img src="https://img.shields.io/badge/💪_EGGSpander-GSAP_Fitness_Ürün_Tanıtım-43e97b?style=for-the-badge" />
+</a>
 <a href="https://kitpro-audrey.webflow.io/">
   <img src="https://img.shields.io/badge/💎_Audrey-Webflow_Ajans_Portfolyo-6c63ff?style=for-the-badge" />
 </a>
