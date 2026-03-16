@@ -178,6 +178,9 @@ const bugra: Developer = {
 <a href="https://mae.com.tr/site/maritas2023.maereklam.com/">
   <img src="https://img.shields.io/badge/🏨_Maritaş_Denim-Tekstil_Kurumsal-6c63ff?style=for-the-badge" />
 </a>
+<a href="https://shishadetox.com/index.html">
+  <img src="https://img.shields.io/badge/🧪_Shisha_Detox-Çok_Dilli_Ürün_Tanıtım-6c63ff?style=for-the-badge" />
+</a>
 
 ### 🎬 Animasyon & İnteraktif
 
