@@ -227,6 +227,9 @@ const bugra: Developer = {
 <a href="https://kitpro-audrey.webflow.io/">
   <img src="https://img.shields.io/badge/💎_Audrey-Webflow_Ajans_Portfolyo-6c63ff?style=for-the-badge" />
 </a>
+<a href="https://derinmavi.com.tr/">
+  <img src="https://img.shields.io/badge/⛵_Derinmavi-Yelken_Okulu_Kurumsal-6c63ff?style=for-the-badge" />
+</a>
 
 </div>
 
