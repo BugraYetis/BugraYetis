@@ -215,6 +215,9 @@ const bugra: Developer = {
 <a href="https://mae.com.tr/Keramik/">
   <img src="https://img.shields.io/badge/🏗️_Keramik-Endüstriyel_Otomasyon-6c63ff?style=for-the-badge" />
 </a>
+<a href="https://keramik.com.tr/test/index.html">
+  <img src="https://img.shields.io/badge/🏗️_Keramik_New-Yeni_Kurumsal_Site-43e97b?style=for-the-badge" />
+</a>
 <a href="https://mae.com.tr/site/iconicrete/">
   <img src="https://img.shields.io/badge/🧱_Iconicrete-Çimsa_Ürün_Tanıtım-6c63ff?style=for-the-badge" />
 </a>
