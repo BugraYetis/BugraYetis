@@ -16,8 +16,6 @@
 
 ---
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
-
 ## `> whoami`
 
 ```typescript
@@ -49,8 +47,6 @@ const bugra: Developer = {
 - 📱 **3 mobil uygulama** — OurDay, Protocol, Cem Ecevit TV
 - 💬 **GSAP, React, React Native, AI, UI/UX** hakkında konuşabiliriz
 - ⚡ Piksel mükemmeliyetçisiyim — 1px bile fark ederim 👀
-
-<br clear="both"/>
 
 ---
 
@@ -301,39 +297,6 @@ const bugra: Developer = {
 
 ---
 
-## 📊 GitHub İstatistikleri
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=BugraYetis&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6c63ff&icon_color=ff6584&text_color=c9d1d9&ring_color=6c63ff" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BugraYetis&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=6c63ff&text_color=c9d1d9" />
-
-</div>
-
-<div align="center">
-
-![Streak](https://streak-stats.demolab.com?user=BugraYetis&theme=github-dark-blue&hide_border=true&background=0d1117&ring=6c63ff&fire=ff6584&currStreakLabel=6c63ff&sideLabels=c9d1d9&dates=6b6b8a)
-
-</div>
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BugraYetis&theme=react-dark&bg_color=0d1117&color=6c63ff&line=ff6584&point=43e97b&area=true&hide_border=true)
-
-</div>
-
----
-
-## 🏆 GitHub Trophy
-
-<div align="center">
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=BugraYetis&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10)
-
-</div>
-
----
-
 ## 🎓 Eğitim
 
 ```
@@ -343,16 +306,6 @@ const bugra: Developer = {
 🎓 2019 — 2023   ┃  Web Tasarım & Kodlama
                   ┃  Mesleki ve Teknik Anadolu Lisesi
 ```
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/BugraYetis/BugraYetis/output/github-contribution-grid-snake-dark.svg)
-
-</div>
 
 ---
 
