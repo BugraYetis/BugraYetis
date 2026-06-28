@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,5&height=220&section=header&text=Buğra%20Yetiş&fontSize=65&fontColor=ffffff&fontAlignY=35&desc=Mid%20Web%20Developer%20%E2%9A%A1%20Grafik%20Tasarımcı&descAlignY=55&descSize=20&animation=twinkling" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1200&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=70&lines=GSAP+%2B+React+%2B+TypeScript+%3D+%E2%9C%A8+Web+Magic;40%2B+Proje+%C2%B7+3+Y%C4%B1l+Deneyim+%C2%B7+%C4%B0stanbul+%F0%9F%87%B9%F0%9F%87%B7)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1200&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=70&lines=GSAP+%2B+React+%2B+React+Native+%3D+%E2%9C%A8+Web+%26+Mobile+Magic;50%2B+Proje+%C2%B7+3+Y%C4%B1l+Deneyim+%C2%B7+%C4%B0stanbul+%F0%9F%87%B9%F0%9F%87%B7)](https://git.io/typing-svg)
 
 <br/>
 
@@ -32,6 +32,7 @@ const bugra: Developer = {
         "☕ Kahve",
         "💻 Kod yaz",
         "🎨 Tasarla",
+        "📱 Mobil geliştir",
         "🚀 Deploy et",
         "🔁 Tekrarla"
     ],
@@ -43,9 +44,10 @@ const bugra: Developer = {
 ### 🔥 Şu Anda
 
 - 🏢 **MAE Reklam Ajansı**'nda Mid Web Developer
-- 🌱 **Three.js / WebGL** & **React Advanced** öğreniyorum
-- 🎯 **40+** proje — kurumsal siteler, animasyonlar, 3D
-- 💬 **GSAP, React, UI/UX** hakkında konuşabiliriz
+- 🌱 **React Native / Expo** & **AI Entegrasyonları** öğreniyorum
+- 🎯 **50+** proje — kurumsal siteler, mobil uygulamalar, animasyonlar, 3D
+- 📱 **3 mobil uygulama** — OurDay, Protocol, Cem Ecevit TV
+- 💬 **GSAP, React, React Native, AI, UI/UX** hakkında konuşabiliriz
 - ⚡ Piksel mükemmeliyetçisiyim — 1px bile fark ederim 👀
 
 <br clear="both"/>
@@ -66,9 +68,21 @@ const bugra: Developer = {
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
-![Slick](https://img.shields.io/badge/-Slick_Slider-1FC0C1?style=flat-square&logoColor=white)
+
+</td>
+<td align="center" width="33%">
+
+**📱 Mobil Geliştirme**
+
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![React Navigation](https://img.shields.io/badge/-React_Navigation-6B52AE?style=flat-square&logo=react&logoColor=white)
+![App Store](https://img.shields.io/badge/-App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white)
+![Google Play](https://img.shields.io/badge/-Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white)
+![Push Notifications](https://img.shields.io/badge/-Push_Notifications-FF6B6B?style=flat-square&logo=firebase&logoColor=white)
 
 </td>
 <td align="center" width="33%">
@@ -81,6 +95,21 @@ const bugra: Developer = {
 ![WebGL](https://img.shields.io/badge/-WebGL-990000?style=flat-square&logo=webgl&logoColor=white)
 ![AOS](https://img.shields.io/badge/-AOS-4FC08D?style=flat-square&logoColor=white)
 ![CSS Animations](https://img.shields.io/badge/-CSS_Animations-264de4?style=flat-square&logo=css3&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+
+**🤖 AI & Entegrasyonlar**
+
+![OpenAI](https://img.shields.io/badge/-OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![Claude AI](https://img.shields.io/badge/-Claude_AI-D4A574?style=flat-square&logo=anthropic&logoColor=white)
+![Stripe](https://img.shields.io/badge/-Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![iyzico](https://img.shields.io/badge/-iyzico-1E64FF?style=flat-square&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![REST API](https://img.shields.io/badge/-REST_API-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Google Maps](https://img.shields.io/badge/-Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
 
 </td>
 <td align="center" width="33%">
@@ -97,8 +126,6 @@ const bugra: Developer = {
 ![Webflow](https://img.shields.io/badge/-Webflow-4353FF?style=flat-square&logo=webflow&logoColor=white)
 
 </td>
-</tr>
-<tr>
 <td align="center" width="33%">
 
 **🎨 Tasarım**
@@ -106,24 +133,9 @@ const bugra: Developer = {
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
-
-</td>
-<td align="center" width="33%">
-
-**📧 E-posta & Sistemler**
-
-![HTML Email](https://img.shields.io/badge/-HTML_E--postalar-DD0031?style=flat-square&logo=gmail&logoColor=white)
-![Responsive Email](https://img.shields.io/badge/-Responsive_Email-4285F4?style=flat-square&logo=maildotru&logoColor=white)
-![Dijital İmza](https://img.shields.io/badge/-Dijital_İmza-009688?style=flat-square&logo=minutemailer&logoColor=white)
-
-</td>
-<td align="center" width="33%">
-
-**🎮 Diğer**
-
 ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine%205-313131?style=flat-square&logo=unrealengine&logoColor=white)
-![SEO](https://img.shields.io/badge/-SEO-47C5FB?style=flat-square&logo=google&logoColor=white)
 ![Responsive](https://img.shields.io/badge/-Responsive_Design-FF6B6B?style=flat-square&logo=google-chrome&logoColor=white)
+![SEO](https://img.shields.io/badge/-SEO-47C5FB?style=flat-square&logo=google&logoColor=white)
 
 </td>
 </tr>
@@ -139,9 +151,10 @@ const bugra: Developer = {
                           ┃  MAE Reklam Ajansı · İstanbul
                           ┃  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
                           ┃  ✦ React & GSAP ile animasyonlu kurumsal siteler
+                          ┃  ✦ React Native & Expo ile mobil uygulamalar
                           ┃  ✦ Three.js / WebGL ile 3D web deneyimleri
+                          ┃  ✦ AI entegrasyonları & ödeme altyapıları
                           ┃  ✦ Online kayıt sistemleri & etkinlik platformları
-                          ┃  ✦ Web & tasarım projelerinde liderlik
                           ┃
 🟡 2023 — 2024            ┃  Junior Web Developer
                           ┃  MAE Reklam Ajansı · İstanbul
@@ -160,26 +173,53 @@ const bugra: Developer = {
 
 ---
 
+## 📱 Mobil Uygulamalar
+
+<div align="center">
+
+<a href="#">
+  <img src="https://img.shields.io/badge/💍_OurDay-Düğün_Planlama_Uygulaması-6c63ff?style=for-the-badge" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/⚖️_Protocol-Hukuki_Haklar_Rehberi-43e97b?style=for-the-badge" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/🚐_Cem_Ecevit_TV-Karavan_Rota_Rehberi-ff6584?style=for-the-badge" />
+</a>
+
+</div>
+
+---
+
 ## 🚀 Öne Çıkan Projeler
 
 <div align="center">
+
+### ★ Öne Çıkan
+
+<a href="https://mae.com.tr/">
+  <img src="https://img.shields.io/badge/🖥️_MAE_Creative_OS-macOS_Masaüstü_Konseptli_Ajans_Sitesi-6c63ff?style=for-the-badge" />
+</a>
 
 ### ⚡ Web Uygulamaları & Platformlar
 
 <a href="https://distinct2026.mae.com.tr/">
   <img src="https://img.shields.io/badge/🎯_Online_Kayıt_Sistemi-Tıbbi_Konferans_Platformu-6c63ff?style=for-the-badge" />
 </a>
+<a href="https://www.derinet.com.tr/">
+  <img src="https://img.shields.io/badge/👞_Derinet-Hakiki_Deri_E--Ticaret-6c63ff?style=for-the-badge" />
+</a>
+<a href="https://mae.com.tr/site/test/incresis/">
+  <img src="https://img.shields.io/badge/🖤_INCRESIS-Streetwear_Marka_Sitesi-6c63ff?style=for-the-badge" />
+</a>
+<a href="https://mae.com.tr/cemecevittv/">
+  <img src="https://img.shields.io/badge/🚐_Cem_Ecevit_TV-Karavan_Rotaları_Web-43e97b?style=for-the-badge" />
+</a>
+<a href="https://mae.com.tr/adria/adria-mockup.html">
+  <img src="https://img.shields.io/badge/🏕️_Adria_Karavan-Ürün_Tanıtım_&_Satış-43e97b?style=for-the-badge" />
+</a>
 <a href="https://joondalupfestival.com.au/">
   <img src="https://img.shields.io/badge/🌊_Joondalup_Festival-Festival_Web_Sitesi-ff6584?style=for-the-badge" />
-</a>
-<a href="https://herodentalart.com/">
-  <img src="https://img.shields.io/badge/🦷_Hero_Dental_Art-Diş_Kliniği_Sitesi-ff6584?style=for-the-badge" />
-</a>
-<a href="https://mae.com.tr/site/maritas2023.maereklam.com/">
-  <img src="https://img.shields.io/badge/🏨_Maritaş_Denim-Tekstil_Kurumsal-6c63ff?style=for-the-badge" />
-</a>
-<a href="https://shishadetox.com/index.html">
-  <img src="https://img.shields.io/badge/🧪_Shisha_Detox-Çok_Dilli_Ürün_Tanıtım-6c63ff?style=for-the-badge" />
 </a>
 
 ### 🎬 Animasyon & İnteraktif
@@ -187,11 +227,11 @@ const bugra: Developer = {
 <a href="https://mae.com.tr/AfferaNextEra/countdown.html">
   <img src="https://img.shields.io/badge/⚡_Countdown-Animasyonlu_Geri_Sayım-43e97b?style=for-the-badge" />
 </a>
-<a href="https://mae.com.tr/deneme_web/">
-  <img src="https://img.shields.io/badge/🎨_MAE_Ajans-Animasyonlu_Web_Sitesi-43e97b?style=for-the-badge" />
+<a href="https://mae.com.tr/sunum/">
+  <img src="https://img.shields.io/badge/📖_MAE_Sunum-Animasyonlu_Kitap_Sunum-43e97b?style=for-the-badge" />
 </a>
 <a href="https://mae.com.tr/site/mae_site/">
-  <img src="https://img.shields.io/badge/📖_Book_Animation-Kitap_Çevirme_Efekti-43e97b?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📚_Book_Animation-Kitap_Çevirme_Efekti-43e97b?style=for-the-badge" />
 </a>
 <a href="https://mae.com.tr/touchscreen%202/">
   <img src="https://img.shields.io/badge/🖥️_Touchscreen-Dokunmatik_Ekran_UI-43e97b?style=for-the-badge" />
@@ -199,24 +239,35 @@ const bugra: Developer = {
 
 ### 🔺 3D & WebGL
 
-<a href="https://activetheory.net/work/racer">
-  <img src="https://img.shields.io/badge/🏎️_Racer_3D-WebGL_Three.js_Deneyimi-ff6584?style=for-the-badge" />
-</a>
 <a href="https://mae.com.tr/site/3bscrollwebsite/">
   <img src="https://img.shields.io/badge/🌀_3D_Scroll-Three.js_Scroll_Deneyimi-ff6584?style=for-the-badge" />
 </a>
 
 ### 🏗️ Kurumsal & Ürün Tanıtım
 
+<a href="https://mae.com.tr/site/sitedeneme/fymension/index.html">
+  <img src="https://img.shields.io/badge/🎯_Fymension-Dijital_Ajans_Portfolyo-6c63ff?style=for-the-badge" />
+</a>
+<a href="https://keramik.com.tr/test2/">
+  <img src="https://img.shields.io/badge/🏗️_Keramik_Makina-Kurumsal_Web_Sitesi-6c63ff?style=for-the-badge" />
+</a>
+<a href="https://keramik.com.tr/test1/">
+  <img src="https://img.shields.io/badge/🏗️_Keramik-Epicenter_of_Every_Move-43e97b?style=for-the-badge" />
+</a>
+<a href="https://activetheory.net/">
+  <img src="https://img.shields.io/badge/🌐_Active_Theory-Dijital_Deneyim_Ajansı-43e97b?style=for-the-badge" />
+</a>
+<a href="https://derinmavi.com.tr/">
+  <img src="https://img.shields.io/badge/⛵_Derinmavi-Yelken_Okulu_Kurumsal-6c63ff?style=for-the-badge" />
+</a>
+<a href="https://herodentalart.com/">
+  <img src="https://img.shields.io/badge/🦷_Hero_Dental_Art-Diş_Kliniği_Sitesi-ff6584?style=for-the-badge" />
+</a>
+<a href="https://mae.com.tr/site/maritas2023.maereklam.com/">
+  <img src="https://img.shields.io/badge/🏨_Maritaş_Denim-Tekstil_Kurumsal-6c63ff?style=for-the-badge" />
+</a>
 <a href="https://kristoff.studio/">
   <img src="https://img.shields.io/badge/🎨_Kristoff_Studio-Kreatif_Tasarım_Stüdyosu-6c63ff?style=for-the-badge" />
-</a>
-
-<a href="https://mae.com.tr/Keramik/">
-  <img src="https://img.shields.io/badge/🏗️_Keramik-Endüstriyel_Otomasyon-6c63ff?style=for-the-badge" />
-</a>
-<a href="https://keramik.com.tr/test/index.html">
-  <img src="https://img.shields.io/badge/🏗️_Keramik_New-Yeni_Kurumsal_Site-43e97b?style=for-the-badge" />
 </a>
 <a href="https://mae.com.tr/site/iconicrete/">
   <img src="https://img.shields.io/badge/🧱_Iconicrete-Çimsa_Ürün_Tanıtım-6c63ff?style=for-the-badge" />
@@ -224,14 +275,11 @@ const bugra: Developer = {
 <a href="https://www.eggspander.com/index_en.html">
   <img src="https://img.shields.io/badge/💪_EGGSpander-GSAP_Fitness_Ürün_Tanıtım-43e97b?style=for-the-badge" />
 </a>
+<a href="https://shishadetox.com/index.html">
+  <img src="https://img.shields.io/badge/🧪_Shisha_Detox-Çok_Dilli_Ürün_Tanıtım-6c63ff?style=for-the-badge" />
+</a>
 <a href="https://kitpro-audrey.webflow.io/">
   <img src="https://img.shields.io/badge/💎_Audrey-Webflow_Ajans_Portfolyo-6c63ff?style=for-the-badge" />
-</a>
-<a href="https://derinmavi.com.tr/">
-  <img src="https://img.shields.io/badge/⛵_Derinmavi-Yelken_Okulu_Kurumsal-6c63ff?style=for-the-badge" />
-</a>
-<a href="https://activetheory.net/">
-  <img src="https://img.shields.io/badge/🌐_Active_Theory-Dijital_Deneyim_Ajansı-43e97b?style=for-the-badge" />
 </a>
 
 </div>
@@ -242,8 +290,9 @@ const bugra: Developer = {
 
 | 📊 Rakamlarla Ben | |
 |---|---|
-| 🏗️ Tamamlanan Proje | **40+** |
-| 🛠️ Kullanılan Teknoloji | **20+** |
+| 🏗️ Tamamlanan Proje | **50+** |
+| 📱 Mobil Uygulama | **3** |
+| 🛠️ Kullanılan Teknoloji | **30+** |
 | 📜 Sertifika | **8+** |
 | 🌍 Uluslararası Proje | **3+** |
 | ☕ Tüketilen Kahve | **∞** |
@@ -313,6 +362,9 @@ const bugra: Developer = {
 
 <br/>
 
+<a href="https://bugrayetis.github.io">
+  <img src="https://img.shields.io/badge/🌐_Portfolyomu_Ziyaret_Et-6c63ff?style=for-the-badge" />
+</a>
 <a href="mailto:bugrayetis305@gmail.com">
   <img src="https://img.shields.io/badge/📧_Birlikte_Çalışalım!-6c63ff?style=for-the-badge" />
 </a>
