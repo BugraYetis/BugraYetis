@@ -181,10 +181,10 @@ const bugra: Developer = {
   <img src="https://img.shields.io/badge/💍_OurDay-Düğün_Planlama_Uygulaması-6c63ff?style=for-the-badge" />
 </a>
 <a href="#">
-  <img src="https://img.shields.io/badge/⚖️_Protocol-Hukuki_Haklar_Rehberi-43e97b?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/⚖️_Protocol-Hayatta_Kalma_Asistanı-43e97b?style=for-the-badge" />
 </a>
 <a href="#">
-  <img src="https://img.shields.io/badge/🚐_Cem_Ecevit_TV-Karavan_Rota_Rehberi-ff6584?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🚐_Cem_Ecevit_TV-Karavan_&_Kamp_Rehberi-ff6584?style=for-the-badge" />
 </a>
 
 </div>
@@ -198,88 +198,88 @@ const bugra: Developer = {
 ### ★ Öne Çıkan
 
 <a href="https://mae.com.tr/">
-  <img src="https://img.shields.io/badge/🖥️_MAE_Creative_OS-macOS_Masaüstü_Konseptli_Ajans_Sitesi-6c63ff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🖥️_MAE_Advertising_Agency-Creative_OS_·_macOS_Masaüstü_Konsept-6c63ff?style=for-the-badge" />
 </a>
 
-### ⚡ Web Uygulamaları & Platformlar
+### 01 — 07
 
-<a href="https://distinct2026.mae.com.tr/">
-  <img src="https://img.shields.io/badge/🎯_Online_Kayıt_Sistemi-Tıbbi_Konferans_Platformu-6c63ff?style=for-the-badge" />
-</a>
-<a href="https://www.derinet.com.tr/">
-  <img src="https://img.shields.io/badge/👞_Derinet-Hakiki_Deri_E--Ticaret-6c63ff?style=for-the-badge" />
-</a>
-<a href="https://mae.com.tr/site/test/incresis/">
-  <img src="https://img.shields.io/badge/🖤_INCRESIS-Streetwear_Marka_Sitesi-6c63ff?style=for-the-badge" />
-</a>
-<a href="https://mae.com.tr/cemecevittv/">
-  <img src="https://img.shields.io/badge/🚐_Cem_Ecevit_TV-Karavan_Rotaları_Web-43e97b?style=for-the-badge" />
-</a>
-<a href="https://mae.com.tr/adria/adria-mockup.html">
-  <img src="https://img.shields.io/badge/🏕️_Adria_Karavan-Ürün_Tanıtım_&_Satış-43e97b?style=for-the-badge" />
-</a>
-<a href="https://joondalupfestival.com.au/">
-  <img src="https://img.shields.io/badge/🌊_Joondalup_Festival-Festival_Web_Sitesi-ff6584?style=for-the-badge" />
-</a>
-
-### 🎬 Animasyon & İnteraktif
-
-<a href="https://mae.com.tr/AfferaNextEra/countdown.html">
-  <img src="https://img.shields.io/badge/⚡_Countdown-Animasyonlu_Geri_Sayım-43e97b?style=for-the-badge" />
-</a>
-<a href="https://mae.com.tr/sunum/">
-  <img src="https://img.shields.io/badge/📖_MAE_Sunum-Animasyonlu_Kitap_Sunum-43e97b?style=for-the-badge" />
-</a>
-<a href="https://mae.com.tr/site/mae_site/">
-  <img src="https://img.shields.io/badge/📚_Book_Animation-Kitap_Çevirme_Efekti-43e97b?style=for-the-badge" />
-</a>
-<a href="https://mae.com.tr/touchscreen%202/">
-  <img src="https://img.shields.io/badge/🖥️_Touchscreen-Dokunmatik_Ekran_UI-43e97b?style=for-the-badge" />
-</a>
-
-### 🔺 3D & WebGL
-
-<a href="https://mae.com.tr/site/3bscrollwebsite/">
-  <img src="https://img.shields.io/badge/🌀_3D_Scroll-Three.js_Scroll_Deneyimi-ff6584?style=for-the-badge" />
-</a>
-
-### 🏗️ Kurumsal & Ürün Tanıtım
-
-<a href="https://mae.com.tr/site/sitedeneme/fymension/index.html">
-  <img src="https://img.shields.io/badge/🎯_Fymension-Dijital_Ajans_Portfolyo-6c63ff?style=for-the-badge" />
-</a>
-<a href="https://keramik.com.tr/test2/">
-  <img src="https://img.shields.io/badge/🏗️_Keramik_Makina-Kurumsal_Web_Sitesi-6c63ff?style=for-the-badge" />
-</a>
-<a href="https://keramik.com.tr/test1/">
-  <img src="https://img.shields.io/badge/🏗️_Keramik-Epicenter_of_Every_Move-43e97b?style=for-the-badge" />
+<a href="#">
+  <img src="https://img.shields.io/badge/⚙️_01_Sosyal_Medya_Post_Otomasyonu-AI_İçerik_Planlama-6c63ff?style=for-the-badge" />
 </a>
 <a href="https://activetheory.net/">
-  <img src="https://img.shields.io/badge/🌐_Active_Theory-Dijital_Deneyim_Ajansı-43e97b?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🌐_02_Active_Theory-Dijital_Deneyim_Ajansı-43e97b?style=for-the-badge" />
 </a>
 <a href="https://derinmavi.com.tr/">
-  <img src="https://img.shields.io/badge/⛵_Derinmavi-Yelken_Okulu_Kurumsal-6c63ff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/⛵_03_Derinmavi-Yelken_Okulu_Kurumsal-6c63ff?style=for-the-badge" />
 </a>
-<a href="https://herodentalart.com/">
-  <img src="https://img.shields.io/badge/🦷_Hero_Dental_Art-Diş_Kliniği_Sitesi-ff6584?style=for-the-badge" />
+<a href="https://mae.com.tr/site/sitedeneme/fymension/index.html">
+  <img src="https://img.shields.io/badge/🎯_04_Fymension-Dijital_Ajans_Portfolyo-43e97b?style=for-the-badge" />
 </a>
-<a href="https://mae.com.tr/site/maritas2023.maereklam.com/">
-  <img src="https://img.shields.io/badge/🏨_Maritaş_Denim-Tekstil_Kurumsal-6c63ff?style=for-the-badge" />
+<a href="https://keramik.com.tr/test2/">
+  <img src="https://img.shields.io/badge/🏗️_05_Keramik_Makina-Kurumsal_Web_Sitesi-6c63ff?style=for-the-badge" />
 </a>
-<a href="https://kristoff.studio/">
-  <img src="https://img.shields.io/badge/🎨_Kristoff_Studio-Kreatif_Tasarım_Stüdyosu-6c63ff?style=for-the-badge" />
+<a href="https://mae.com.tr/adria/adria-mockup.html">
+  <img src="https://img.shields.io/badge/🏕️_06_Adria_Karavan-Ürün_Tanıtım_&_Satış-43e97b?style=for-the-badge" />
+</a>
+<a href="https://mae.com.tr/cemecevittv/">
+  <img src="https://img.shields.io/badge/🚐_07_Cem_Ecevit_TV-Karavan_Rotaları_Web-ff6584?style=for-the-badge" />
+</a>
+
+### 08 — 16
+
+<a href="https://mae.com.tr/site/3bscrollwebsite/">
+  <img src="https://img.shields.io/badge/🌀_08_3B_Scroll-Three.js_Ürün_Tanıtımı-ff6584?style=for-the-badge" />
+</a>
+<a href="https://distinct2026.mae.com.tr/">
+  <img src="https://img.shields.io/badge/🎯_09_Online_Kayıt_Sistemi-Tıbbi_Konferans-6c63ff?style=for-the-badge" />
+</a>
+<a href="https://mae.com.tr/AfferaNextEra/countdown.html">
+  <img src="https://img.shields.io/badge/⚡_10_Countdown-Animasyonlu_Geri_Sayım-43e97b?style=for-the-badge" />
 </a>
 <a href="https://mae.com.tr/site/iconicrete/">
-  <img src="https://img.shields.io/badge/🧱_Iconicrete-Çimsa_Ürün_Tanıtım-6c63ff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🧱_11_Iconicrete-Çimsa_Beton_Ürünleri-6c63ff?style=for-the-badge" />
 </a>
-<a href="https://www.eggspander.com/index_en.html">
-  <img src="https://img.shields.io/badge/💪_EGGSpander-GSAP_Fitness_Ürün_Tanıtım-43e97b?style=for-the-badge" />
+<a href="https://www.derinet.com.tr/">
+  <img src="https://img.shields.io/badge/👞_12_Derinet-Hakiki_Deri_E--Ticaret-43e97b?style=for-the-badge" />
 </a>
-<a href="https://shishadetox.com/index.html">
-  <img src="https://img.shields.io/badge/🧪_Shisha_Detox-Çok_Dilli_Ürün_Tanıtım-6c63ff?style=for-the-badge" />
+<a href="https://mae.com.tr/site/mae_site/">
+  <img src="https://img.shields.io/badge/📖_13_MAE_Site-Book_Animasyon_Denemesi-43e97b?style=for-the-badge" />
+</a>
+<a href="https://mae.com.tr/site/maritas2023.maereklam.com/">
+  <img src="https://img.shields.io/badge/🏨_14_Maritaş_Denim-Tekstil_Kurumsal-6c63ff?style=for-the-badge" />
 </a>
 <a href="https://kitpro-audrey.webflow.io/">
-  <img src="https://img.shields.io/badge/💎_Audrey-Webflow_Ajans_Portfolyo-6c63ff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/💎_15_Audrey-Webflow_Ajans_Portfolyo-6c63ff?style=for-the-badge" />
+</a>
+<a href="https://joondalupfestival.com.au/">
+  <img src="https://img.shields.io/badge/🌊_16_Joondalup_Festival-Perth_Kültürel_Festival-ff6584?style=for-the-badge" />
+</a>
+
+### 17 — 24
+
+<a href="https://mae.com.tr/touchscreen%202/">
+  <img src="https://img.shields.io/badge/🖥️_17_Touchscreen-Three.js_Dokunmatik_Vitrin-43e97b?style=for-the-badge" />
+</a>
+<a href="https://herodentalart.com/">
+  <img src="https://img.shields.io/badge/🦷_18_Hero_Dental_Art-Diş_Protez_Laboratuvarı-ff6584?style=for-the-badge" />
+</a>
+<a href="https://shishadetox.com/index.html">
+  <img src="https://img.shields.io/badge/🧪_19_Shisha_Detox-Çok_Dilli_Ürün_Tanıtım-6c63ff?style=for-the-badge" />
+</a>
+<a href="https://kristoff.studio/">
+  <img src="https://img.shields.io/badge/🎨_20_Kristoff_Studio-Kreatif_Tasarım_Stüdyosu-6c63ff?style=for-the-badge" />
+</a>
+<a href="https://www.eggspander.com/index_en.html">
+  <img src="https://img.shields.io/badge/💪_21_EGGSpander-GSAP_Fitness_Ürün_Tanıtım-43e97b?style=for-the-badge" />
+</a>
+<a href="https://keramik.com.tr/test1/">
+  <img src="https://img.shields.io/badge/🏗️_22_Keramik-Epicenter_of_Every_Move-6c63ff?style=for-the-badge" />
+</a>
+<a href="https://mae.com.tr/sunum/">
+  <img src="https://img.shields.io/badge/📚_23_MAE_Reklam_Sunum-Animasyonlu_Kitap_Sunum-43e97b?style=for-the-badge" />
+</a>
+<a href="https://mae.com.tr/site/test/incresis/">
+  <img src="https://img.shields.io/badge/🖤_24_INCRESIS-Streetwear_Marka_Sitesi-6c63ff?style=for-the-badge" />
 </a>
 
 </div>
