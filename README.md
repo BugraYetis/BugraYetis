@@ -1,5 +1,18 @@
 <div align="center">
 
+### 📌 Sabitlenmiş Repolar
+
+<a href="https://github.com/BugraYetis/social-media-automation"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BugraYetis/BugraYetis/main/assets/pins/social-media-automation-dark.svg" /><img src="https://raw.githubusercontent.com/BugraYetis/BugraYetis/main/assets/pins/social-media-automation-light.svg" width="49%" alt="social-media-automation" /></picture></a>
+<a href="https://github.com/BugraYetis/active-theory-website"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BugraYetis/BugraYetis/main/assets/pins/active-theory-website-dark.svg" /><img src="https://raw.githubusercontent.com/BugraYetis/BugraYetis/main/assets/pins/active-theory-website-light.svg" width="49%" alt="active-theory-website" /></picture></a>
+<a href="https://github.com/BugraYetis/BugraYetis.github.io"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BugraYetis/BugraYetis/main/assets/pins/BugraYetis.github.io-dark.svg" /><img src="https://raw.githubusercontent.com/BugraYetis/BugraYetis/main/assets/pins/BugraYetis.github.io-light.svg" width="49%" alt="BugraYetis.github.io" /></picture></a>
+<a href="https://github.com/BugraYetis/fymension"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BugraYetis/BugraYetis/main/assets/pins/fymension-dark.svg" /><img src="https://raw.githubusercontent.com/BugraYetis/BugraYetis/main/assets/pins/fymension-light.svg" width="49%" alt="fymension" /></picture></a>
+<a href="https://github.com/BugraYetis/mae-creative-os"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BugraYetis/BugraYetis/main/assets/pins/mae-creative-os-dark.svg" /><img src="https://raw.githubusercontent.com/BugraYetis/BugraYetis/main/assets/pins/mae-creative-os-light.svg" width="49%" alt="mae-creative-os" /></picture></a>
+<a href="https://github.com/BugraYetis/mobile-apps"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BugraYetis/BugraYetis/main/assets/pins/mobile-apps-dark.svg" /><img src="https://raw.githubusercontent.com/BugraYetis/BugraYetis/main/assets/pins/mobile-apps-light.svg" width="49%" alt="mobile-apps" /></picture></a>
+
+</div>
+
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,5&height=220&section=header&text=Buğra%20Yetiş&fontSize=65&fontColor=ffffff&fontAlignY=35&desc=Mid%20Web%20Developer%20%E2%9A%A1%20Grafik%20Tasarımcı&descAlignY=55&descSize=20&animation=twinkling" width="100%"/>
 
 <a href="https://bugrayetis.github.io"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1200&color=6C63FF&center=true&vCenter=true&repeat=true&width=720&height=50&lines=GSAP+%2B+React+%2B+React+Native+%3D+Web+%26+Mobile+Magic;40%2B+Proje+%C2%B7+3+Y%C4%B1l+Deneyim+%C2%B7+%C4%B0stanbul;Three.js+%C2%B7+WebGL+%C2%B7+Scroll+Animasyonlar%C4%B1;Mobil+Uygulamalar+%C2%B7+Oyunlar+%C2%B7+Otomasyon" alt="Typing SVG" /></a>
