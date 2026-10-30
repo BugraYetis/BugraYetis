@@ -27,10 +27,11 @@
 
 <br/><br/>
 
-<a href="https://bugrayetis.github.io/mevcut.html#projects"><img src="assets/projeler.svg" width="100%" alt="Projelerden kareler" /></a>
+<a href="https://bugrayetis.github.io/normal-mod#projects"><img src="assets/projeler.svg" width="100%" alt="Projelerden kareler" /></a>
 
 <a href="https://bugrayetis.github.io"><img src="https://img.shields.io/badge/🌐_Portfolyoma_Göz_At-bugrayetis.github.io-6c63ff?style=for-the-badge" /></a>
-<a href="https://bugrayetis.github.io/yeni/"><img src="https://img.shields.io/badge/🎮_Adventure_Mode-Oyun_Gibi_Gez-43e97b?style=for-the-badge" /></a>
+<a href="https://bugrayetis.github.io/normal-mod"><img src="https://img.shields.io/badge/📄_Normal_Mod-Tüm_Projeler-ff6584?style=for-the-badge" /></a>
+<a href="https://bugrayetis.github.io/adventure-mod/"><img src="https://img.shields.io/badge/🎮_Adventure_Mode-Oyun_Gibi_Gez-43e97b?style=for-the-badge" /></a>
 
 </div>
 
@@ -151,14 +152,14 @@ const bugra: Developer = {
 
 <div align="center">
 
-<a href="https://bugrayetis.github.io/mevcut.html#proje-ourday"><img src="https://img.shields.io/badge/💍_OurDay-Düğün_Planlama-6c63ff?style=for-the-badge" /></a>
-<a href="https://bugrayetis.github.io/mevcut.html#proje-protocol"><img src="https://img.shields.io/badge/⚖️_Protocol-Offline_Hayatta_Kalma-43e97b?style=for-the-badge" /></a>
-<a href="https://bugrayetis.github.io/mevcut.html#proje-cemtv"><img src="https://img.shields.io/badge/🚐_Cem_Ecevit_TV-Karavan_&_Kamp-ff6584?style=for-the-badge" /></a>
-<a href="https://bugrayetis.github.io/mevcut.html#proje-hobbyshare"><img src="https://img.shields.io/badge/🎨_HobbyShare-Hobi_&_Sosyalleşme-6c63ff?style=for-the-badge" /></a>
-<a href="https://bugrayetis.github.io/mevcut.html#proje-photobooth"><img src="https://img.shields.io/badge/📸_Photobooth-iPad_Fotoğraf_Kabini-43e97b?style=for-the-badge" /></a>
-<a href="https://bugrayetis.github.io/mevcut.html#proje-evolving-ball"><img src="https://img.shields.io/badge/⚽_Evolving_Ball-Hyper_Casual_Oyun-ff6584?style=for-the-badge" /></a>
-<a href="https://bugrayetis.github.io/mevcut.html#proje-pc-oyunu"><img src="https://img.shields.io/badge/🏠_Ev_Kurma_Oyunu-Co--op_PC_·_Yapımda-6c63ff?style=for-the-badge" /></a>
-<a href="https://bugrayetis.github.io/mevcut.html#proje-yapay-zeka-ofis-otomasyonu"><img src="https://img.shields.io/badge/🤖_AI_Ofis_Otomasyonu-Mobil_Kontrol_·_Yapımda-43e97b?style=for-the-badge" /></a>
+<a href="https://bugrayetis.github.io/normal-mod#proje-ourday"><img src="https://img.shields.io/badge/💍_OurDay-Düğün_Planlama-6c63ff?style=for-the-badge" /></a>
+<a href="https://bugrayetis.github.io/normal-mod#proje-protocol"><img src="https://img.shields.io/badge/⚖️_Protocol-Offline_Hayatta_Kalma-43e97b?style=for-the-badge" /></a>
+<a href="https://bugrayetis.github.io/normal-mod#proje-cemtv"><img src="https://img.shields.io/badge/🚐_Cem_Ecevit_TV-Karavan_&_Kamp-ff6584?style=for-the-badge" /></a>
+<a href="https://bugrayetis.github.io/normal-mod#proje-hobbyshare"><img src="https://img.shields.io/badge/🎨_HobbyShare-Hobi_&_Sosyalleşme-6c63ff?style=for-the-badge" /></a>
+<a href="https://bugrayetis.github.io/normal-mod#proje-photobooth"><img src="https://img.shields.io/badge/📸_Photobooth-iPad_Fotoğraf_Kabini-43e97b?style=for-the-badge" /></a>
+<a href="https://bugrayetis.github.io/normal-mod#proje-evolving-ball"><img src="https://img.shields.io/badge/⚽_Evolving_Ball-Hyper_Casual_Oyun-ff6584?style=for-the-badge" /></a>
+<a href="https://bugrayetis.github.io/normal-mod#proje-pc-oyunu"><img src="https://img.shields.io/badge/🏠_Ev_Kurma_Oyunu-Co--op_PC_·_Yapımda-6c63ff?style=for-the-badge" /></a>
+<a href="https://bugrayetis.github.io/normal-mod#proje-yapay-zeka-ofis-otomasyonu"><img src="https://img.shields.io/badge/🤖_AI_Ofis_Otomasyonu-Mobil_Kontrol_·_Yapımda-43e97b?style=for-the-badge" /></a>
 
 </div>
 
@@ -170,46 +171,46 @@ const bugra: Developer = {
 
 ### ★ Öne Çıkan
 
-<a href="https://bugrayetis.github.io/mevcut.html#proje-mae-advertising-agency"><img src="https://img.shields.io/badge/🖥️_MAE_Advertising_Agency-Creative_OS_·_macOS_Masaüstü_Konsept-6c63ff?style=for-the-badge" /></a>
+<a href="https://bugrayetis.github.io/normal-mod#proje-mae-advertising-agency"><img src="https://img.shields.io/badge/🖥️_MAE_Advertising_Agency-Creative_OS_·_macOS_Masaüstü_Konsept-6c63ff?style=for-the-badge" /></a>
 
 ### Yeni Eklenenler
 
-<a href="https://bugrayetis.github.io/mevcut.html#proje-base"><img src="https://img.shields.io/badge/🛡️_BASE-Three.js_Savunma_Sanayii-ff6584?style=for-the-badge" /></a>
-<a href="https://bugrayetis.github.io/mevcut.html#proje-alyans-logistics"><img src="https://img.shields.io/badge/🚢_Alyans_Logistics-GSAP_Kurumsal-6c63ff?style=for-the-badge" /></a>
-<a href="https://bugrayetis.github.io/mevcut.html#proje-nomia"><img src="https://img.shields.io/badge/☕_Nomia-Kahve_E--Ticaret-43e97b?style=for-the-badge" /></a>
-<a href="https://bugrayetis.github.io/mevcut.html#proje-fit-weekend-2026"><img src="https://img.shields.io/badge/🏃_Fit_Weekend_2026-Festival_Sitesi-ff6584?style=for-the-badge" /></a>
-<a href="https://bugrayetis.github.io/mevcut.html#proje-davetiye"><img src="https://img.shields.io/badge/💌_Dijital_Davetiye-LCV_Paneli-6c63ff?style=for-the-badge" /></a>
-<a href="https://bugrayetis.github.io/mevcut.html#proje-ep-fotograflar"><img src="https://img.shields.io/badge/🛫_Kalkış_Panosu-Etkinlik_Galerisi-43e97b?style=for-the-badge" /></a>
-<a href="https://bugrayetis.github.io/mevcut.html#proje-egitim-galerisi"><img src="https://img.shields.io/badge/🎓_Eğitim_İşbirliği-Fotoğraf_Galerisi-6c63ff?style=for-the-badge" /></a>
-<a href="https://bugrayetis.github.io/mevcut.html#proje-ep-giris-ekrani"><img src="https://img.shields.io/badge/📺_Entrance_Screen-4K_Giriş_Ekranı-ff6584?style=for-the-badge" /></a>
-<a href="https://bugrayetis.github.io/mevcut.html#proje-beny"><img src="https://img.shields.io/badge/🍔_Beny-Dijital_Menü-43e97b?style=for-the-badge" /></a>
+<a href="https://bugrayetis.github.io/normal-mod#proje-base"><img src="https://img.shields.io/badge/🛡️_BASE-Three.js_Savunma_Sanayii-ff6584?style=for-the-badge" /></a>
+<a href="https://bugrayetis.github.io/normal-mod#proje-alyans-logistics"><img src="https://img.shields.io/badge/🚢_Alyans_Logistics-GSAP_Kurumsal-6c63ff?style=for-the-badge" /></a>
+<a href="https://bugrayetis.github.io/normal-mod#proje-nomia"><img src="https://img.shields.io/badge/☕_Nomia-Kahve_E--Ticaret-43e97b?style=for-the-badge" /></a>
+<a href="https://bugrayetis.github.io/normal-mod#proje-fit-weekend-2026"><img src="https://img.shields.io/badge/🏃_Fit_Weekend_2026-Festival_Sitesi-ff6584?style=for-the-badge" /></a>
+<a href="https://bugrayetis.github.io/normal-mod#proje-davetiye"><img src="https://img.shields.io/badge/💌_Dijital_Davetiye-LCV_Paneli-6c63ff?style=for-the-badge" /></a>
+<a href="https://bugrayetis.github.io/normal-mod#proje-ep-fotograflar"><img src="https://img.shields.io/badge/🛫_Kalkış_Panosu-Etkinlik_Galerisi-43e97b?style=for-the-badge" /></a>
+<a href="https://bugrayetis.github.io/normal-mod#proje-egitim-galerisi"><img src="https://img.shields.io/badge/🎓_Eğitim_İşbirliği-Fotoğraf_Galerisi-6c63ff?style=for-the-badge" /></a>
+<a href="https://bugrayetis.github.io/normal-mod#proje-ep-giris-ekrani"><img src="https://img.shields.io/badge/📺_Entrance_Screen-4K_Giriş_Ekranı-ff6584?style=for-the-badge" /></a>
+<a href="https://bugrayetis.github.io/normal-mod#proje-beny"><img src="https://img.shields.io/badge/🍔_Beny-Dijital_Menü-43e97b?style=for-the-badge" /></a>
 
 ### Web, 3D & Animasyon
 
-<a href="https://bugrayetis.github.io/mevcut.html#proje-sosyal-medya-post-otomasyonu"><img src="https://img.shields.io/badge/⚙️_Sosyal_Medya_Otomasyonu-AI_İçerik_Planlama-6c63ff?style=for-the-badge" /></a>
-<a href="https://bugrayetis.github.io/mevcut.html#proje-active-theory"><img src="https://img.shields.io/badge/🌐_Active_Theory-Dijital_Deneyim-43e97b?style=for-the-badge" /></a>
-<a href="https://bugrayetis.github.io/mevcut.html#proje-derinmavi"><img src="https://img.shields.io/badge/⛵_Derinmavi-Yelken_Okulu-6c63ff?style=for-the-badge" /></a>
-<a href="https://bugrayetis.github.io/mevcut.html#proje-fymension"><img src="https://img.shields.io/badge/🎯_Fymension-Dijital_Ajans-43e97b?style=for-the-badge" /></a>
-<a href="https://bugrayetis.github.io/mevcut.html#proje-keramik-makina"><img src="https://img.shields.io/badge/🏗️_Keramik_Makina-Kurumsal-6c63ff?style=for-the-badge" /></a>
-<a href="https://bugrayetis.github.io/mevcut.html#proje-adria-karavan-turkiye"><img src="https://img.shields.io/badge/🏕️_Adria_Karavan-Ürün_&_Satış-43e97b?style=for-the-badge" /></a>
-<a href="https://bugrayetis.github.io/mevcut.html#proje-cem-ecevit-tv"><img src="https://img.shields.io/badge/🚐_Cem_Ecevit_TV-Karavan_Rotaları-ff6584?style=for-the-badge" /></a>
-<a href="https://bugrayetis.github.io/mevcut.html#proje-3b-scroll-website"><img src="https://img.shields.io/badge/🌀_3B_Scroll-WebGL_Ürün_Tanıtımı-ff6584?style=for-the-badge" /></a>
-<a href="https://bugrayetis.github.io/mevcut.html#proje-online-kayit-sistemi"><img src="https://img.shields.io/badge/🎯_Online_Kayıt-Tıbbi_Konferans-6c63ff?style=for-the-badge" /></a>
-<a href="https://bugrayetis.github.io/mevcut.html#proje-countdown"><img src="https://img.shields.io/badge/⚡_Countdown-Animasyonlu_Geri_Sayım-43e97b?style=for-the-badge" /></a>
-<a href="https://bugrayetis.github.io/mevcut.html#proje-iconicrete"><img src="https://img.shields.io/badge/🧱_Iconicrete-Beton_Ürünleri-6c63ff?style=for-the-badge" /></a>
-<a href="https://bugrayetis.github.io/mevcut.html#proje-derinet"><img src="https://img.shields.io/badge/👞_Derinet-Deri_E--Ticaret-43e97b?style=for-the-badge" /></a>
-<a href="https://bugrayetis.github.io/mevcut.html#proje-mae-site"><img src="https://img.shields.io/badge/📖_MAE_Site-Book_Animasyon-43e97b?style=for-the-badge" /></a>
-<a href="https://bugrayetis.github.io/mevcut.html#proje-maritas-denim"><img src="https://img.shields.io/badge/👖_Maritaş_Denim-Tekstil_Kurumsal-6c63ff?style=for-the-badge" /></a>
-<a href="https://bugrayetis.github.io/mevcut.html#proje-audrey"><img src="https://img.shields.io/badge/💎_Audrey-Webflow_Portfolyo-6c63ff?style=for-the-badge" /></a>
-<a href="https://bugrayetis.github.io/mevcut.html#proje-joondalup-festival-2026"><img src="https://img.shields.io/badge/🌊_Joondalup_Festival-Perth-ff6584?style=for-the-badge" /></a>
-<a href="https://bugrayetis.github.io/mevcut.html#proje-touchscreen"><img src="https://img.shields.io/badge/🖥️_Touchscreen-Three.js_Vitrin-43e97b?style=for-the-badge" /></a>
-<a href="https://bugrayetis.github.io/mevcut.html#proje-hero-dental-art"><img src="https://img.shields.io/badge/🦷_Hero_Dental_Art-Diş_Laboratuvarı-ff6584?style=for-the-badge" /></a>
-<a href="https://bugrayetis.github.io/mevcut.html#proje-shisha-detox"><img src="https://img.shields.io/badge/🧪_Shisha_Detox-Çok_Dilli_Tanıtım-6c63ff?style=for-the-badge" /></a>
-<a href="https://bugrayetis.github.io/mevcut.html#proje-kristoff-studio"><img src="https://img.shields.io/badge/🎨_Kristoff_Studio-Kreatif_Stüdyo-6c63ff?style=for-the-badge" /></a>
-<a href="https://bugrayetis.github.io/mevcut.html#proje-eggspander"><img src="https://img.shields.io/badge/💪_EGGSpander-GSAP_Fitness-43e97b?style=for-the-badge" /></a>
-<a href="https://bugrayetis.github.io/mevcut.html#proje-keramik"><img src="https://img.shields.io/badge/🏗️_Keramik-Epicenter_of_Every_Move-6c63ff?style=for-the-badge" /></a>
-<a href="https://bugrayetis.github.io/mevcut.html#proje-mae-reklam"><img src="https://img.shields.io/badge/📚_MAE_Reklam-Kitap_Sunum-43e97b?style=for-the-badge" /></a>
-<a href="https://bugrayetis.github.io/mevcut.html#proje-incresis"><img src="https://img.shields.io/badge/🖤_INCRESIS-Streetwear_Marka-6c63ff?style=for-the-badge" /></a>
+<a href="https://bugrayetis.github.io/normal-mod#proje-sosyal-medya-post-otomasyonu"><img src="https://img.shields.io/badge/⚙️_Sosyal_Medya_Otomasyonu-AI_İçerik_Planlama-6c63ff?style=for-the-badge" /></a>
+<a href="https://bugrayetis.github.io/normal-mod#proje-active-theory"><img src="https://img.shields.io/badge/🌐_Active_Theory-Dijital_Deneyim-43e97b?style=for-the-badge" /></a>
+<a href="https://bugrayetis.github.io/normal-mod#proje-derinmavi"><img src="https://img.shields.io/badge/⛵_Derinmavi-Yelken_Okulu-6c63ff?style=for-the-badge" /></a>
+<a href="https://bugrayetis.github.io/normal-mod#proje-fymension"><img src="https://img.shields.io/badge/🎯_Fymension-Dijital_Ajans-43e97b?style=for-the-badge" /></a>
+<a href="https://bugrayetis.github.io/normal-mod#proje-keramik-makina"><img src="https://img.shields.io/badge/🏗️_Keramik_Makina-Kurumsal-6c63ff?style=for-the-badge" /></a>
+<a href="https://bugrayetis.github.io/normal-mod#proje-adria-karavan-turkiye"><img src="https://img.shields.io/badge/🏕️_Adria_Karavan-Ürün_&_Satış-43e97b?style=for-the-badge" /></a>
+<a href="https://bugrayetis.github.io/normal-mod#proje-cem-ecevit-tv"><img src="https://img.shields.io/badge/🚐_Cem_Ecevit_TV-Karavan_Rotaları-ff6584?style=for-the-badge" /></a>
+<a href="https://bugrayetis.github.io/normal-mod#proje-3b-scroll-website"><img src="https://img.shields.io/badge/🌀_3B_Scroll-WebGL_Ürün_Tanıtımı-ff6584?style=for-the-badge" /></a>
+<a href="https://bugrayetis.github.io/normal-mod#proje-online-kayit-sistemi"><img src="https://img.shields.io/badge/🎯_Online_Kayıt-Tıbbi_Konferans-6c63ff?style=for-the-badge" /></a>
+<a href="https://bugrayetis.github.io/normal-mod#proje-countdown"><img src="https://img.shields.io/badge/⚡_Countdown-Animasyonlu_Geri_Sayım-43e97b?style=for-the-badge" /></a>
+<a href="https://bugrayetis.github.io/normal-mod#proje-iconicrete"><img src="https://img.shields.io/badge/🧱_Iconicrete-Beton_Ürünleri-6c63ff?style=for-the-badge" /></a>
+<a href="https://bugrayetis.github.io/normal-mod#proje-derinet"><img src="https://img.shields.io/badge/👞_Derinet-Deri_E--Ticaret-43e97b?style=for-the-badge" /></a>
+<a href="https://bugrayetis.github.io/normal-mod#proje-mae-site"><img src="https://img.shields.io/badge/📖_MAE_Site-Book_Animasyon-43e97b?style=for-the-badge" /></a>
+<a href="https://bugrayetis.github.io/normal-mod#proje-maritas-denim"><img src="https://img.shields.io/badge/👖_Maritaş_Denim-Tekstil_Kurumsal-6c63ff?style=for-the-badge" /></a>
+<a href="https://bugrayetis.github.io/normal-mod#proje-audrey"><img src="https://img.shields.io/badge/💎_Audrey-Webflow_Portfolyo-6c63ff?style=for-the-badge" /></a>
+<a href="https://bugrayetis.github.io/normal-mod#proje-joondalup-festival-2026"><img src="https://img.shields.io/badge/🌊_Joondalup_Festival-Perth-ff6584?style=for-the-badge" /></a>
+<a href="https://bugrayetis.github.io/normal-mod#proje-touchscreen"><img src="https://img.shields.io/badge/🖥️_Touchscreen-Three.js_Vitrin-43e97b?style=for-the-badge" /></a>
+<a href="https://bugrayetis.github.io/normal-mod#proje-hero-dental-art"><img src="https://img.shields.io/badge/🦷_Hero_Dental_Art-Diş_Laboratuvarı-ff6584?style=for-the-badge" /></a>
+<a href="https://bugrayetis.github.io/normal-mod#proje-shisha-detox"><img src="https://img.shields.io/badge/🧪_Shisha_Detox-Çok_Dilli_Tanıtım-6c63ff?style=for-the-badge" /></a>
+<a href="https://bugrayetis.github.io/normal-mod#proje-kristoff-studio"><img src="https://img.shields.io/badge/🎨_Kristoff_Studio-Kreatif_Stüdyo-6c63ff?style=for-the-badge" /></a>
+<a href="https://bugrayetis.github.io/normal-mod#proje-eggspander"><img src="https://img.shields.io/badge/💪_EGGSpander-GSAP_Fitness-43e97b?style=for-the-badge" /></a>
+<a href="https://bugrayetis.github.io/normal-mod#proje-keramik"><img src="https://img.shields.io/badge/🏗️_Keramik-Epicenter_of_Every_Move-6c63ff?style=for-the-badge" /></a>
+<a href="https://bugrayetis.github.io/normal-mod#proje-mae-reklam"><img src="https://img.shields.io/badge/📚_MAE_Reklam-Kitap_Sunum-43e97b?style=for-the-badge" /></a>
+<a href="https://bugrayetis.github.io/normal-mod#proje-incresis"><img src="https://img.shields.io/badge/🖤_INCRESIS-Streetwear_Marka-6c63ff?style=for-the-badge" /></a>
 
 </div>
 
