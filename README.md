@@ -19,7 +19,7 @@
 
 <br/>
 
-<a href="mailto:bugrayetis305@gmail.com"><img src="https://img.shields.io/badge/-bugrayetis305%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="mailto:bugra@fymension.com"><img src="https://img.shields.io/badge/-bugra%40fymension.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/bu%C4%9Fra-yeti%C5%9F-593964249"><img src="https://img.shields.io/badge/-Buğra%20Yetiş-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="https://instagram.com/bugrayetiss"><img src="https://img.shields.io/badge/-@bugrayetiss-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
 <a href="tel:+905365957942"><img src="https://img.shields.io/badge/-+90%20536%20595%2079%2042-25D366?style=flat-square&logo=whatsapp&logoColor=white" /></a>
@@ -250,7 +250,7 @@ const bugra: Developer = {
 <br/>
 
 <a href="https://bugrayetis.github.io"><img src="https://img.shields.io/badge/🌐_Portfolyomu_Ziyaret_Et-6c63ff?style=for-the-badge" /></a>
-<a href="mailto:bugrayetis305@gmail.com"><img src="https://img.shields.io/badge/📧_Birlikte_Çalışalım!-6c63ff?style=for-the-badge" /></a>
+<a href="mailto:bugra@fymension.com"><img src="https://img.shields.io/badge/📧_Birlikte_Çalışalım!-6c63ff?style=for-the-badge" /></a>
 <a href="https://www.linkedin.com/in/bu%C4%9Fra-yeti%C5%9F-593964249"><img src="https://img.shields.io/badge/💼_LinkedIn'de_Bağlanalım-0A66C2?style=for-the-badge" /></a>
 
 <br/><br/>
